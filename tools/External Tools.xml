@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="NPM" description="Run NPM" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="electron" />
+      <option name="PARAMETERS" value="." />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/oauth Example" />
+    </exec>
+  </tool>
+</toolSet>

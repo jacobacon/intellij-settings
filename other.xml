@@ -1,0 +1,20 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/8.4.0/bin/node">
+      <version-cache version="8.4.0" last-modified="1503550871000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.6.0" last-modified="1507563277000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.1.2/bin/node">
+      <version-cache last-modified="1497761322000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node">
+      <version-cache last-modified="1495647235000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>

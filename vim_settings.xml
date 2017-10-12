@@ -1,0 +1,81 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/hoarder-for-reddit/config.js" timestamp="1497066576062">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498700416499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PlayBulb-Node/app.js" timestamp="1500261983407">
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PlayBulb-Node/bluetooth.js" timestamp="1500261556983">
+        <mark key="[" line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/iLumiExample/app/src/main/java/co/ilumi/ilumiexample/MainActivity.java" timestamp="1498703377938">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test/src/Main.java" timestamp="1500261950424">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/iLumi-Node/app.js" timestamp="1498019743495">
+        <mark key="[" line="60" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BluetoothTest/app/src/main/java/com/ilumi/sdk/IlumiSDK.java" timestamp="1498700959674">
+        <mark key="[" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/iLumiExample/local.properties" timestamp="1498703305108">
+        <mark key="[" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/iLumi-Node/IlumiColorInternal.js" timestamp="1498018991691">
+        <mark key="[" line="2" column="3" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByYW5kb20gcmFuZCA9IG5ldyByYW5kb20oKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYW5kb20gcmFuZCA9IG5ldyByYW5kb20oKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>exit</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+        <entry>exit</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
