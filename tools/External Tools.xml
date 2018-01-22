@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="electron" />
       <option name="PARAMETERS" value="." />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/oauth Example" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/jacob/IdeaProjects/oauth Example" />
     </exec>
   </tool>
 </toolSet>
