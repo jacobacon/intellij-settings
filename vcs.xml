@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/jacobacon/hoarder-for-reddit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cturkoanje/MyTLC-for-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workspace\node" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
   </component>
 </application>
